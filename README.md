@@ -73,12 +73,12 @@
 <br>JavaScript
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
-<br>HTML5
+<img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="48" height="48" />
+<br>Lua
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" />
-<br>CSS3
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
+<br>Java
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />
